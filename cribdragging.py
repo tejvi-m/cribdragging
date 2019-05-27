@@ -1,4 +1,4 @@
-
+#written in may 2017
 import binascii
 
 def toHex(word):
